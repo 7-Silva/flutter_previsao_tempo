@@ -51,6 +51,7 @@ flutter run
  - Mostrar temperatura máxima e mínima
  - Informações sobre o nascer do sol e pôr do sol
  - Localização automática usando Geolocator
+ - Velocidade do vento e humidade
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests.
